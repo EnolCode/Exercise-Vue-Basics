@@ -1,3 +1,7 @@
+.div{
+    width: 600px;
+}
+
 .cut-text { 
     text-overflow: ellipsis;
     overflow: hidden;
